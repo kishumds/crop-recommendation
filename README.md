@@ -3,6 +3,13 @@
 ![ant-rozetsky--c0PJUAtpSo-unsplash](https://user-images.githubusercontent.com/88129183/174021847-debf2e8e-bc88-497e-847d-36cb1372bc28.jpg)
 
 ## About Project
+Here, I have developed project which predicts which crop is suitable for given soil.
+I have used following libraries for build it.
+* PySpark
+* Pandas
+* Seaborn
+* Matplotlib
+
 In this repository, there is a notebook in which I have trained a model to predict crop according to given data like 
 * Sodium
 * Potassium
